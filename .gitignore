@@ -8,6 +8,12 @@
 *.log
 *.log.*
 *.sig
-
+.vscode
+.idea
+.DS_Store
+node_modules
+.env
+build/
+*.psd
 pkg/
 src/
